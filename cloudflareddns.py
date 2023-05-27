@@ -1,4 +1,5 @@
-##!/bin/python3
+##!/bin/python3 
+# remove the first # in line above if running on *nix 
 # transcription of a found powershell script to call API(s) to update cloudflare dynamic dns
 import requests, os
 from dotenv import load_dotenv
